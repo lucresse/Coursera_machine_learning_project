@@ -1,1 +1,1 @@
-# Coursera_machine_learning_project
+# Coursera machine learning assignment
